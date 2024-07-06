@@ -15,8 +15,9 @@ class GaugeApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Radial Gauge Demo in main ADDED IN MAIN',
-      theme: ThemeData(primarySwatch: Colors.blue),
+      title: 'Radial Gauge Demo',
+      debugShowCheckedModeBanner: false ,     // added in test_branch
+       theme: ThemeData(primarySwatch: Colors.blue),
       home: const MyHomePage(),
     );
   }
