@@ -28,7 +28,7 @@ void onlyOnTestBranch () {
 }
 
 void onlyOnMain () {
-
+  int j = 0;
 }
 
 /// Represents MyHomePage class
