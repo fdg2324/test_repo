@@ -24,7 +24,7 @@ class GaugeApp extends StatelessWidget {
 }
 
 void onlyOnTestBranch () {
-  
+  var i = 0;
 }
 
 /// Represents MyHomePage class
