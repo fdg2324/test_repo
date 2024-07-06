@@ -22,6 +22,10 @@ class GaugeApp extends StatelessWidget {
   }
 }
 
+void onlyOnTestBranch () {
+  
+}
+
 /// Represents MyHomePage class
 class MyHomePage extends StatefulWidget {
   /// Creates the instance of MyHomePage
