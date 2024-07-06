@@ -15,7 +15,7 @@ class GaugeApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Radial Gauge Demo',
+      title: 'Radial Gauge Demo in main',
       theme: ThemeData(primarySwatch: Colors.blue),
       home: const MyHomePage(),
     );
