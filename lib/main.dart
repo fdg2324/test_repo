@@ -28,6 +28,7 @@ void onlyOnTestBranch () {
   i++;
   i--;
   i -= 1;
+  i += 5;
 }
 
 void onlyOnMain () {
