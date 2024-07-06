@@ -27,6 +27,7 @@ void onlyOnTestBranch () {
   var i = 0;
   i++;
   i--;
+  i -= 1;
 }
 
 void onlyOnMain () {
