@@ -26,6 +26,7 @@ class GaugeApp extends StatelessWidget {
 void onlyOnTestBranch () {
   var i = 0;
   i++;
+  i--;
 }
 
 void onlyOnMain () {
