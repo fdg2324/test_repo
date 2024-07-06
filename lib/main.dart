@@ -27,6 +27,10 @@ void onlyOnTestBranch () {
   var i = 0;
 }
 
+void onlyOnMain () {
+
+}
+
 /// Represents MyHomePage class
 class MyHomePage extends StatefulWidget {
   /// Creates the instance of MyHomePage
